@@ -9,3 +9,11 @@ layout: home
 
 [페이스북](https://www.facebook.com/profile.php?id=100001935668877), [미디엄](https://medium.com/@jinkwon711), [깃허브](https://github.com/jinkwon711) 사용하고있습니다.
 
+<br>
+---
+<br>
+
+**[카테고리별 보기]({{site.url}}/tags)**
+
+**[포스트별 보기]({{site.url}}/posts)**
+
