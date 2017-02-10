@@ -1,9 +1,9 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Jin's Blog
+description: 새로운 구독자는 언제나 환영이야
+url: https://jinkwon711.github.io
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: kr_KR
 
 # Left Block Images
 background:
@@ -31,10 +31,10 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+# twitter:            username
+facebook:           100001935668877
+github:             jinkwon711
+# stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+# behance:           username
 
 # Gems
 gems:

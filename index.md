@@ -1,10 +1,11 @@
 ---
 layout: home
 ---
-# About Theme
+# 권진환의 블로그입니다
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+경제학을 전공했지만 컴퓨터가 더 좋은 학생입니다.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+얉고 넓게 아는것을 목표로 공부중입니다.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+[페이스북](https://www.facebook.com/profile.php?id=100001935668877), [미디엄](https://medium.com/@jinkwon711), [깃허브](https://github.com/jinkwon711) 사용하고있습니다.
+
