@@ -28,9 +28,14 @@ tag:
 
 앞으로도 이런 기회를 여러번 가지고자 합니다.
 
-[스누코드 페이스북](https://www.facebook.com/snucode) 을 좋아요 및 팔로우 해주시면 
 
-캠프 정보를 포함한 각종 정보를 받아 보실 수 있습니다.
+캠프 정보는 아래의 링크에서 
+ 
+[스누코드 페이스북](https://www.facebook.com/snucode)을 좋아요 및 팔로우 해주시면 
+ 
+
+받아 보실 수 있습니다.
+
 
 ![alt]({{ site.url }}/images/2017-02-25/1.jpg)
 ![alt]({{ site.url }}/images/2017-02-25/2.jpg)
