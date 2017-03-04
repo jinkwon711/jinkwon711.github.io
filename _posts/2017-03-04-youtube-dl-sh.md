@@ -61,7 +61,7 @@ pip3 는 파이썬 3 를 설치한뒤 깔면 됩니다. 가장 편한건 아나�
 
 그럼이제 shell script 를 배워봅시다.
 
-'''
+```sh
 
 \#!/bin/bash
 
@@ -73,18 +73,18 @@ mkdir ./$folder_name
 echo $(pwd) "this is your current directory"
 echo "files will be downloaded at $(pwd)/$folder_name"
 echo "default option is 'youtube-dl'"
-echo "if you want to download in higher resolution, plz change the shell script"
+echo "if you want to download in higher resolution" 
+echo "plz change the shell script"
 lines="../urls.txt"
 cd $folder_name
 
 while read line
 do
-
 ​	youtube-dl --format mp4 $line
-
 done<"$lines"
 
-'''
+```
+
 
 간단히 짜본 코드입니다.
 
@@ -116,7 +116,9 @@ done<"$lines"라고 되어있습니다.
 
 
 
- 이는 lines에서 한줄씩 읽어오고 lines가 고갈될때까지 와일문을 돌린다는 이야기 입니다. 
+ 이는 lines에서 한줄씩 읽어오고 lines가 고갈될때까지 와일문을 돌린다는 이야기 입니다.
+
+물론 blabla에는 와일문 한번씩  돌 때마다 할 내용을 지정해주면 됩니다.
 
 위에 보면lines = "../urls.txt"로 urls.txt에 우리가 받고싶은 url주소를 한줄한줄 입력해 놓으면됩니다.
 
